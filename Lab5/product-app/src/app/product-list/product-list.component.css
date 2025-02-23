@@ -1,0 +1,15 @@
+.products-container {
+    margin: 0 144px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    max-width: 1200px;
+    gap: 20px;
+}
+
+form {
+    margin: 50px 144px;
+}
+
+form span {
+    font-size: 20px;
+}
