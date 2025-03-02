@@ -1,0 +1,44 @@
+section {
+    margin: 70px 144px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #B6E0F3;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.left-hero {
+    max-width: 450px;
+}
+
+.left-hero h1 {
+    margin: 0 0 15px;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.left-hero p {
+    margin: 0 0 30px;
+}
+
+.left-hero button {
+    color: #fff;
+    background-color: #6B6BF3;
+    padding: 12px 30px 15px;
+    border: none;
+    border-radius: 20px;
+    font-size: 16px;
+    font-weight: 800;
+}
+
+.left-hero button:hover {
+    background-color: #6565e2;
+    cursor: pointer;
+}
+
+.line-delimeter {
+    margin: 70px 144px;
+    background-color: #000;
+    height: 3px;
+}

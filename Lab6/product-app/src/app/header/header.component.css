@@ -1,0 +1,28 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #F3D9B6;
+    height: 60px;
+    padding: 35px 144px 15px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    font-size: 16px;
+    list-style: none;
+    gap: 50px;
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+.logo {
+    font-size: 36px;
+    font-weight: 700;
+}
+

@@ -1,0 +1,11 @@
+<section class="functional-section">
+    <form>
+        <h3>Categorize your products!</h3>
+        <input type="text" placeholder="Filter" #filter>
+        <button class="filter-btn" type="button" (click)="filterProducts(filter.value)">Filter</button>
+        <button class="reset-btn" type="button" (click)="resetProductList()">Reset</button>
+    </form>
+</section>
+<section class="products-container">
+    <app-product *ngFor="let product of filteredList" [product] = "product" (deleteProduct)="removeProduct($event)"></app-product>
+</section>
