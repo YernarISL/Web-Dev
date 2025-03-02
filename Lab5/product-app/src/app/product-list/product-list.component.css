@@ -6,6 +6,21 @@
     gap: 20px;
 }
 
+.reset-btn, .filter-btn {
+    padding: 5px 15px;
+    background-color: #6B6BF3;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.filter-btn:hover, .reset-btn:hover {
+    background-color: #6565e2;
+    cursor: pointer;
+}
+
 form {
     margin: 50px 144px;
 }

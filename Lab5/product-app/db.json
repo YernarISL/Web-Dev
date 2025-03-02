@@ -1,94 +1,103 @@
 {
-    "products": [
-        {
-            "id": 0,
-            "name": "Apple MacBook Air 13 2022 / 8 Gb / SSD 256 Gb",
-            "hlink": "https://kaspi.kz/shop/p/apple-macbook-air-13-2022-13-6-8-gb-ssd-256-gb-macos-mly33-105933768/?c=750000000&utm_source=google&utm_medium=cpc&utm_campaign=shop_google_performance_max_dsa_common&gclid=CjwKCAiAiOa9BhBqEiwABCdG807KrOoT7FdgZqbK-U-zVKOg3Mer_Rz8YmE_96BwYW_FYqrAoRlExhoC0fwQAvD_BwE",
-            "OS": "MacOS",
-            "RAM": 8,
-            "SSD": 256,
-            "FormFactor": "small",
-            "photo": "/macbook.png"
-        },
-        {
-            "id": 1,
-            "name": "Acer Gadget E10 ETBook 14 / 16 Gb / SSD 512 Gb",
-            "hlink": "https://kaspi.kz/shop/p/acer-gadget-e10-etbook-14-16-gb-ssd-512-gb-win-11-home-0167563995-121895857/?c=750000000&utm_source=google&utm_medium=cpc&utm_campaign=shop_google_performance_max_dsa_common&gclid=CjwKCAiAiOa9BhBqEiwABCdG807KrOoT7FdgZqbK-U-zVKOg3Mer_Rz8YmE_96BwYW_FYqrAoRlExhoC0fwQAvD_BwE",
-            "OS": "Windows",
-            "RAM": 16,
-            "SSD": 512,
-            "FormFactor": "medium",
-            "photo": "/acer-gd.png"
-        },
-        {
-            "id": 2,
-            "name": "HP Laptop / 8 Gb / 256 SSD Gb",
-            "hlink": "https://kaspi.kz/shop/p/hp-laptop-15-fc0072ci-15-6-8-gb-ssd-512-gb-bez-os-a19wcea-131090992/?c=750000000&utm_source=google&utm_medium=cpc&utm_campaign=shop_google_performance_max_dsa_common&gclid=CjwKCAiAiOa9BhBqEiwABCdG807KrOoT7FdgZqbK-U-zVKOg3Mer_Rz8YmE_96BwYW_FYqrAoRlExhoC0fwQAvD_BwE",
-            "OS": "Windows",
-            "RAM": 8,
-            "SSD": 256,
-            "FormFactor": "small",
-            "photo": "/hp.png"
-        },
-        {
-            "id": 3,
-            "name": "Lenovo IdeaPad Slim 3 / 16 Gb / SSD 1000 Gb",
-            "hlink": "https://kaspi.kz/shop/p/lenovo-ideapad-slim-3-16-16-gb-ssd-1000-gb-bez-os-16iah8-83es002prk-119936069/?c=750000000&utm_source=google&utm_medium=cpc&utm_campaign=shop_google_performance_max_dsa_common&gclid=CjwKCAiAiOa9BhBqEiwABCdG807KrOoT7FdgZqbK-U-zVKOg3Mer_Rz8YmE_96BwYW_FYqrAoRlExhoC0fwQAvD_BwE",
-            "OS": "Linux",
-            "RAM": 16,
-            "SSD": 1000,
-            "FormFactor": "medium",
-            "photo": "/lenovo.png"
-        },
-        {
-            "id": 4,
-            "name": "Acer Aspire 3 / 16 Гб / SSD 512 Gb",
-            "hlink": "https://kaspi.kz/shop/p/acer-aspire-3-15-6-16-gb-ssd-512-gb-bez-os-a315-44p-r8a2-nx-ksjer-007-116348039/?c=750000000&utm_source=google&utm_medium=cpc&utm_campaign=shop_google_performance_max_dsa_common&gclid=CjwKCAiAiOa9BhBqEiwABCdG807KrOoT7FdgZqbK-U-zVKOg3Mer_Rz8YmE_96BwYW_FYqrAoRlExhoC0fwQAvD_BwE",
-            "OS": "Windows",
-            "RAM": 16,
-            "SSD": 512,
-            "FormFactor": "large",
-            "photo": "/acerASP.png"
-        },
-        {
-            "id": 5,
-            "name": "ASUS VivoBook 15 / 16 Gb / SSD 512 Gb",
-            "hlink": "https://kaspi.kz/shop/p/asus-vivobook-15-15-6-16-gb-ssd-512-gb-bez-os-x1504za-bq1144-121869011/?c=750000000&utm_source=google&utm_medium=cpc&utm_campaign=shop_google_performance_max_dsa_common&gclid=CjwKCAiAiOa9BhBqEiwABCdG807KrOoT7FdgZqbK-U-zVKOg3Mer_Rz8YmE_96BwYW_FYqrAoRlExhoC0fwQAvD_BwE",
-            "OS": "Windows",
-            "RAM": 16,
-            "SSD": 512,
-            "FormFactor": "medium",
-            "photo": "/asusvivo.png"
-        },
-        {
-            "id": 6,
-            "name": "ASUS ExpertBook B1 / 16 Gb / SSD 512 Gb ",
-            "hlink": "https://kaspi.kz/shop/p/asus-expertbook-b1-15-6-16-gb-ssd-512-gb-win-11-pro-b1500cba-90nx0551-m00tu0-112322181/?c=750000000&utm_source=google&utm_medium=cpc&utm_campaign=shop_google_performance_max_dsa_common&gclid=CjwKCAiAiOa9BhBqEiwABCdG807KrOoT7FdgZqbK-U-zVKOg3Mer_Rz8YmE_96BwYW_FYqrAoRlExhoC0fwQAvD_BwE",
-            "OS": "Windows",
-            "RAM": 16,
-            "SSD": 512,
-            "FormFactor": "large",
-            "photo": "/asusex.png"
-        },
-        {
-            "id": 7,
-            "name": "Chuwi HeroBook Pro / 8 Gb / SSD 256 Gb",
-            "hlink": "https://kaspi.kz/shop/p/chuwi-herobook-pro-14-1-8-gb-ssd-256-gb-win-10-b08316yskh-101675028/?c=750000000&utm_source=google&utm_medium=cpc&utm_campaign=shop_google_performance_max_dsa_common&gclid=CjwKCAiAiOa9BhBqEiwABCdG807KrOoT7FdgZqbK-U-zVKOg3Mer_Rz8YmE_96BwYW_FYqrAoRlExhoC0fwQAvD_BwE",
-            "OS": "Linux",
-            "RAM": 8,
-            "SSD": 256,
-            "FormFactor": "small",
-            "photo": "/chuwi.png"
-        },
-        {
-            "id": 8,
-            "name": "Apple MacBook Pro 14 2024 / 16 Gb / SSD 512 Gb",
-            "hlink": "https://kaspi.kz/shop/p/apple-macbook-pro-14-2024-16-gb-ssd-512-gb-macos-mw2u3-132088460/?c=750000000&utm_source=google&utm_medium=cpc&utm_campaign=shop_google_performance_max_dsa_common&gclid=CjwKCAiAiOa9BhBqEiwABCdG807KrOoT7FdgZqbK-U-zVKOg3Mer_Rz8YmE_96BwYW_FYqrAoRlExhoC0fwQAvD_BwE",
-            "OS": "MacOS",
-            "RAM": 16,
-            "SSD": 512,
-            "FormFactor": "medium",
-            "photo": "/macpro14.png" 
-        }
-    ]
+  "products": [
+    {
+      "name": "Apple MacBook Air 13 2022 / 8 Gb / SSD 256 Gb",
+      "originalName": "Apple MacBook Air 13 2022 / 8 Gb / SSD 256 Gb",
+      "hlink": "https://kaspi.kz/shop/p/apple-macbook-air-13-2022-13-6-8-gb-ssd-256-gb-macos-mly33-105933768/?c=750000000&utm_source=google&utm_medium=cpc&utm_campaign=shop_google_performance_max_dsa_common&gclid=CjwKCAiAiOa9BhBqEiwABCdG807KrOoT7FdgZqbK-U-zVKOg3Mer_Rz8YmE_96BwYW_FYqrAoRlExhoC0fwQAvD_BwE",
+      "OS": "MacOS",
+      "RAM": 8,
+      "SSD": 256,
+      "FormFactor": "small",
+      "photo": "/macbook.png",
+      "id": "0"
+    },
+    {
+      "name": "Acer Gadget E10 ETBook 14 / 16 Gb / SSD 512 Gb",
+      "originalName": "Acer Gadget E10 ETBook 14 / 16 Gb / SSD 512 Gb",
+      "hlink": "https://kaspi.kz/shop/p/acer-gadget-e10-etbook-14-16-gb-ssd-512-gb-win-11-home-0167563995-121895857/?c=750000000&utm_source=google&utm_medium=cpc&utm_campaign=shop_google_performance_max_dsa_common&gclid=CjwKCAiAiOa9BhBqEiwABCdG807KrOoT7FdgZqbK-U-zVKOg3Mer_Rz8YmE_96BwYW_FYqrAoRlExhoC0fwQAvD_BwE",
+      "OS": "Windows",
+      "RAM": 16,
+      "SSD": 512,
+      "FormFactor": "medium",
+      "photo": "/acer-gd.png",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "HP Laptop / 8 Gb / 256 SSD Gb",
+      "originalName": "HP Laptop / 8 Gb / 256 SSD Gb",
+      "hlink": "https://kaspi.kz/shop/p/hp-laptop-15-fc0072ci-15-6-8-gb-ssd-512-gb-bez-os-a19wcea-131090992/?c=750000000&utm_source=google&utm_medium=cpc&utm_campaign=shop_google_performance_max_dsa_common&gclid=CjwKCAiAiOa9BhBqEiwABCdG807KrOoT7FdgZqbK-U-zVKOg3Mer_Rz8YmE_96BwYW_FYqrAoRlExhoC0fwQAvD_BwE",
+      "OS": "Windows",
+      "RAM": 8,
+      "SSD": 256,
+      "FormFactor": "small",
+      "photo": "/hp.png"
+    },
+    {
+      "id": "3",
+      "name": "Lenovo IdeaPad Slim 3 / 16 Gb / SSD 1000 Gb",
+      "originalName": "Lenovo IdeaPad Slim 3 / 16 Gb / SSD 1000 Gb",
+      "hlink": "https://kaspi.kz/shop/p/lenovo-ideapad-slim-3-16-16-gb-ssd-1000-gb-bez-os-16iah8-83es002prk-119936069/?c=750000000&utm_source=google&utm_medium=cpc&utm_campaign=shop_google_performance_max_dsa_common&gclid=CjwKCAiAiOa9BhBqEiwABCdG807KrOoT7FdgZqbK-U-zVKOg3Mer_Rz8YmE_96BwYW_FYqrAoRlExhoC0fwQAvD_BwE",
+      "OS": "Linux",
+      "RAM": 16,
+      "SSD": 1000,
+      "FormFactor": "medium",
+      "photo": "/lenovo.png"
+    },
+    {
+      "name": "Acer Aspire 3 / 16 Гб / SSD 512 Gb",
+      "originalName": "Acer Aspire 3 / 16 Гб / SSD 512 Gb",
+      "hlink": "https://kaspi.kz/shop/p/acer-aspire-3-15-6-16-gb-ssd-512-gb-bez-os-a315-44p-r8a2-nx-ksjer-007-116348039/?c=750000000&utm_source=google&utm_medium=cpc&utm_campaign=shop_google_performance_max_dsa_common&gclid=CjwKCAiAiOa9BhBqEiwABCdG807KrOoT7FdgZqbK-U-zVKOg3Mer_Rz8YmE_96BwYW_FYqrAoRlExhoC0fwQAvD_BwE",
+      "OS": "Windows",
+      "RAM": 16,
+      "SSD": 512,
+      "FormFactor": "large",
+      "photo": "/acerASP.png",
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "name": "ASUS VivoBook 15 / 16 Gb / SSD 512 Gb",
+      "originalName": "ASUS VivoBook 15 / 16 Gb / SSD 512 Gb",
+      "hlink": "https://kaspi.kz/shop/p/asus-vivobook-15-15-6-16-gb-ssd-512-gb-bez-os-x1504za-bq1144-121869011/?c=750000000&utm_source=google&utm_medium=cpc&utm_campaign=shop_google_performance_max_dsa_common&gclid=CjwKCAiAiOa9BhBqEiwABCdG807KrOoT7FdgZqbK-U-zVKOg3Mer_Rz8YmE_96BwYW_FYqrAoRlExhoC0fwQAvD_BwE",
+      "OS": "Windows",
+      "RAM": 16,
+      "SSD": 512,
+      "FormFactor": "medium",
+      "photo": "/asusvivo.png"
+    },
+    {
+      "id": "6",
+      "name": "ASUS ExpertBook B1 / 16 Gb / SSD 512 Gb",
+      "originalName": "ASUS ExpertBook B1 / 16 Gb / SSD 512 Gb",
+      "hlink": "https://kaspi.kz/shop/p/asus-expertbook-b1-15-6-16-gb-ssd-512-gb-win-11-pro-b1500cba-90nx0551-m00tu0-112322181/?c=750000000&utm_source=google&utm_medium=cpc&utm_campaign=shop_google_performance_max_dsa_common&gclid=CjwKCAiAiOa9BhBqEiwABCdG807KrOoT7FdgZqbK-U-zVKOg3Mer_Rz8YmE_96BwYW_FYqrAoRlExhoC0fwQAvD_BwE",
+      "OS": "Windows",
+      "RAM": 16,
+      "SSD": 512,
+      "FormFactor": "large",
+      "photo": "/asusex.png"
+    },
+    {
+      "id": "7",
+      "name": "Chuwi HeroBook Pro / 8 Gb / SSD 256 Gb",
+      "originalName": "Chuwi HeroBook Pro / 8 Gb / SSD 256 Gb",
+      "hlink": "https://kaspi.kz/shop/p/chuwi-herobook-pro-14-1-8-gb-ssd-256-gb-win-10-b08316yskh-101675028/?c=750000000&utm_source=google&utm_medium=cpc&utm_campaign=shop_google_performance_max_dsa_common&gclid=CjwKCAiAiOa9BhBqEiwABCdG807KrOoT7FdgZqbK-U-zVKOg3Mer_Rz8YmE_96BwYW_FYqrAoRlExhoC0fwQAvD_BwE",
+      "OS": "Linux",
+      "RAM": 8,
+      "SSD": 256,
+      "FormFactor": "small",
+      "photo": "/chuwi.png"
+    },
+    {
+      "name": "Apple MacBook Pro 14 2024 / 16 Gb / SSD 512 Gb",
+      "originalName": "Apple MacBook Pro 14 2024 / 16 Gb / SSD 512 Gb",
+      "hlink": "https://kaspi.kz/shop/p/apple-macbook-pro-14-2024-16-gb-ssd-512-gb-macos-mw2u3-132088460/?c=750000000&utm_source=google&utm_medium=cpc&utm_campaign=shop_google_performance_max_dsa_common&gclid=CjwKCAiAiOa9BhBqEiwABCdG807KrOoT7FdgZqbK-U-zVKOg3Mer_Rz8YmE_96BwYW_FYqrAoRlExhoC0fwQAvD_BwE",
+      "OS": "MacOS",
+      "RAM": 16,
+      "SSD": 512,
+      "FormFactor": "medium",
+      "photo": "/macpro14.png",
+      "id": "8"
+    }
+  ]
 }

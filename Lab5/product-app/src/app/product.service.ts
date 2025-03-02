@@ -20,12 +20,29 @@ export class ProductService {
     return await data.json() ?? {};
   }
 
-  // getProductByOS(OS : string) : Product | undefined {
-  //   return this.productsList.find(product => product.OS === OS);
-  // }
+  async updateProduct(id : Number, title : string) {
+    const product = await this.getProductById(id);
+    const requestOptions = {
+      method: 'PUT',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify(
+        {
+          "name": title,
+          "originalName": product?.originalName,
+          "hlink": product?.hlink,
+          "OS": product?.OS,
+          "RAM": product?.RAM,
+          "SSD": product?.SSD, 
+          "FormFactor": product?.FormFactor,
+          "photo": product?.photo
+        }
+      ),
+    };
+    const response = await fetch(`${this.url}/${id}`, requestOptions);
+    return await response.json();
+  }
 
-  // getProductByFactor(factor : string) : Product | undefined {
-  //   return this.productsList.find(product => product.FormFactor === factor);
-  // }
- 
+  async returnProduct() {
+
+  }
 }

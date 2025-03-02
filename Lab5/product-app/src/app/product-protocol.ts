@@ -1,10 +1,11 @@
 export interface Product {
     id: number,
     name: string,
+    originalName: string,
     hlink: string,
     OS: string,
-    RAM: Number,
-    SSD: Number,
+    RAM: number,
+    SSD: number,
     FormFactor: string,
     photo: string
 }

@@ -1,1 +1,31 @@
-<p>details works!</p>
+<main>
+    <section class="main-info" *ngIf="product; else loading">
+        <img src="{{ product.photo }}">
+        <h3>{{ product.name }}</h3> 
+    </section>
+    <section class="description" *ngIf="product; else loading">
+        <h3>Description</h3>
+        <p>OS: {{ product.OS }}</p>
+        <p>RAM: {{ product.RAM }}</p>
+        <p>SSD: {{ product.SSD }}</p>
+        <p>Size: {{ product.FormFactor }}</p>
+    </section>
+    <section class="action" *ngIf="product; else loading">
+        <form>
+            <div class="input-section">
+                <span>Change the title</span>
+                <input type="text" class="title-input" #newTitle>
+            </div>
+            <div class="button-section">
+                <button class="save-btn" type="button" (click)="changeTitle(newTitle.value)">Save</button>
+                <button class="return-btn" type="button" (click)="changeTitle(product.originalName)">Return</button>
+            </div>
+        </form>
+    </section>
+</main>
+
+
+<ng-template #loading>
+    <p>Loading...</p>
+</ng-template>
+

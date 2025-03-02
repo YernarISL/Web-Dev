@@ -1,9 +1,9 @@
 header {
     display: flex;
     justify-content: space-between;
-    background-color: #DFEDFF;
-    height: 110px;
-    padding: 50px 144px 0;
+    background-color: #F3D9B6;
+    height: 60px;
+    padding: 35px 144px 15px;
 }
 
 ul {
@@ -16,6 +16,10 @@ ul {
     margin: 10px;
 }
 
+a {
+    text-decoration: none;
+    color: #000;
+}
 
 .logo {
     font-size: 36px;
